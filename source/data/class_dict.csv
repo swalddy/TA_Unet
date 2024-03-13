@@ -1,0 +1,7 @@
+name,r,g,b
+built-up,255,0,0
+farmland,0,255,0
+forest,0,255,255
+meadow,255,255,0
+water,0,0,255
+unknown,0,0,0

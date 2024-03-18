@@ -2,3 +2,5 @@ source/data/test_patches/
 source/data/train_patches/
 source/data/valid_patches/
 source/checkpoints/checkpoint.pt/
+source/checkpoints/checkpoint_1.pt
+source/checkpoints/checkpoint.pt

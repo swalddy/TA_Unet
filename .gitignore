@@ -10,3 +10,6 @@ source/checkpoints/checkpoint.pt
 source/sample_predictions
 source/data/mask_patches/
 source/data/raw_patches/
+**/*.pt
+**/*.pth
+**/*.ckpt
